@@ -15,6 +15,7 @@ IT professional with experience in enterprise environments, focusing on security
 ## 💼 Professional Experience
 ### IT Support Associate
 Fidelity Investments | December 2020 - Present
+
 - Support and secure a 70,000-user enterprise environment in the financial services sector
 - Administer enterprise security platforms including identity management, privileged access, and mainframe security tools
 - Handle security assessments and compliance requirements with consistently high performance metrics
