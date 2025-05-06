@@ -3,9 +3,7 @@ title: About Me
 ---
 
 # Professional Background
-IT security professional with experience in enterprise environments, focusing on security operations and infrastructure protection. Currently supporting and securing systems in highly regulated financial services.
-
-
+IT professional with experience in enterprise environments, focusing on security operations and customer support. Currently supporting and securing systems in highly regulated financial services.
 
 ## Current Projects
 🚀 [Homelab](index.md) - Building and maintaining a comprehensive security testing environment for hands-on cybersecurity practice and continuous learning.
@@ -25,13 +23,6 @@ Fidelity Investments | December 2020 - Present
 
 ## 📚 Certifications & Training
 - Active pursuit of [PNPT (Practical Network Penetration Tester)](https://certifications.tcm-sec.com/pnpt/) certification
-
-## 🔍 Areas of Interest
-- Security Operations Center (SOC) operations
-- Threat detection and incident response
-- Network security architecture
-- Industrial security and critical infrastructure protection
-- Active Directory security
 
 ## 🤝 Connect
 - [LinkedIn Profile](https://www.linkedin.com/in/tmario)

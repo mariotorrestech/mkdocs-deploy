@@ -1,20 +1,14 @@
-# KALI - AD 
+# Active Directory - Kali Lab
 
 !!! note "Overview"
 
-    Attack vulnerable Windows Domain Controller and user machines. Active Directory and Windows DC environment with Kali Linux based tools for A
+    Environment based on attacking vulnerable Windows Domain Controller and user machines.
 
 === "Kali based tools"
 
     * nmap
     * burp suite
-    * responder
-
-=== "should this be ' tools used against juice shop'" 
-
-    * jack the ripper
-    * the other one
-    * the 3rd ine
+    * JackTheRipper
 
 ### Environment Components
 
@@ -44,8 +38,6 @@ graph TD
 
     Kali had access to internet - AD LAB
     AD Lab including DC only had internal LAN access, no external access.
-    
-    (CAN INCLUDE VLAN INFO AND PROXMOX NIC INFO - somewhere round here)
 
 ## Domain Infrastructure
 

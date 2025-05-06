@@ -24,14 +24,11 @@ A purpose-built security lab environment where I develop and test cybersecurity 
 
 ## 🔬 Security Labs & Testing Environments
 
-### [Active Directory Lab](labs/ad-environment.md)
-- Dedicated network segment for testing:
-    - Windows domain environment for PNPT preparation
-    - Kali Linux attack machine, Windows 11/Windows Server
-    - Isolated from production services
-    - AD attack and defense scenarios
+### [Active Directory Lab](/Users/ranger/dev/mkdocsmaterial/docs/infrastructure/ActiveDirectoryLab.md)
+- Purpose: Hands-on experience with vulnerable Windows domain controller and machines.
+- AD attack and defense scenarios in guideline with TCM's PNPT course/labs
 
-#### [Web Application Security Lab](labs/web-security.md)
+### [Web Application Security Lab](labs/web-security.md)
 - OWASP Juice Shop with Burp Suite and FoxyProxy setup
 - Key vulnerability focus:
     - SQL Injection and authentication attacks

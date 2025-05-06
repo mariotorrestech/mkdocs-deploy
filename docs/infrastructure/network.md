@@ -1,10 +1,14 @@
-# Network Infrastructure
+# VLAN Infrastructure
 
 ## Overview
 
 Separate the virtualized testing environment and use Kali as the pivot point.
 
-"Production" environment remains
+!!! note "Overview"
+
+    Unifi UI makes this straightforward and highly configurable. 
+    
+    Some abstraction applied to the topology below.
 
 ## Network Topology
 
