@@ -12,5 +12,3 @@ A security-focused IT professional building practical security skills through ha
 - [About Me](about.md) - Professional background and experience
 - [Homelab Project](homelab/index.md) - Security learning environment details
 - [Infrastructure](infrastructure/index.md) - Technical infrastructure documentation
-
-*Last Updated: May 2025*

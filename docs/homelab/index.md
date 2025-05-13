@@ -55,7 +55,3 @@ My lab is built on an Intel NUC8 Hades Canyon running Proxmox VE 8.2.2, providin
 - Penetration Testing: Kali Linux, Burp Suite, Metasploit, Nmap
 - Network Security: Pi-hole, NGINX, Step-CA
 - Containerization: Docker
-
----
-
-*Last Updated: May 2025*
