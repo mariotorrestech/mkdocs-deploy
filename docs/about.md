@@ -11,9 +11,9 @@ IT professional with experience in enterprise environments, focusing on supporti
 
 :lab_coat: [Homelab](homelab/index.md) - Building and maintaining a comprehensive security testing environment for hands-on cybersecurity practice and continuous learning.
 
-🎓 [PNPT certification](homelab/pnpt.md) - Actively pursuing TCM Security's Practical Network Penetration Tester certification.
+🎓 [PNPT certification](homelab/PNPT.html) - Actively pursuing TCM Security's Practical Network Penetration Tester certification.
 
-*The certification labs and capstones are locally deployed through my homelab: [Active Directory lab](homelab/pnpt.md#lab-environments) and [OWASP Juice shop](homelab/pnpt.md#lab-environments) for web app vulnerabilities*
+*The certification labs and capstones are locally deployed through my homelab: [Active Directory lab](homelab/PNPT.html#lab-environments) and [OWASP Juice shop](homelab/PNPT.html#lab-environments) for web app vulnerabilities*
 
 ## 🎓 Education
 
