@@ -1,6 +1,17 @@
 site_name: My Docs
 site_url: https://mariotorrestech.github.io/
 repo_url: https://github.com/mariotorrestech/mariotorrestech.github.io
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: index.md
+  - Homelab: 
+    - homelab/index.md
+  - Infrastructure:
+    - infrastructure/index.md
+
 theme:
   name: material
   font:
