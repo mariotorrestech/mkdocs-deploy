@@ -38,3 +38,8 @@ Dual bridge configuration separates domains:
 - [Network Details](network.md)
 
 ![Intel NUC8](../assets/nuc8.jpg)
+
+
+---
+
+*Return to [Home](../index.md)*

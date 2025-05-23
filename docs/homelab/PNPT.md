@@ -32,4 +32,8 @@ The certification preparation involves hands-on practice in dedicated lab enviro
 
 ---
 
-*Return to [Homelab](index.md)*
+---
+
+*Return to [Home](../index.md)*  
+*Return to [Infrastructure](index.md)*  
+*Return to [Homelab](../homelab/index.md)*

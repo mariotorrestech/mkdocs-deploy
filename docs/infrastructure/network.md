@@ -33,3 +33,12 @@ graph TD
 | Production | 10.0.1.0/24 | Core infrastructure services | • Strict firewall rules<br>• Limited external access<br>• Service isolation |
 | Admin      | 10.0.2.0/24 | Management access            | • Admin-only access<br>• Restricted to authorized devices<br>• Enhanced authentication |
 | Lab        | 10.0.3.0/24 | Security testing environment | • Completely isolated<br>• No internet access<br>• Sandboxed environment |
+
+
+---
+
+---
+
+*Return to [Home](../index.md)*  
+*Return to [Infrastructure](index.md)*  
+*Return to [Homelab](../homelab/index.md)*

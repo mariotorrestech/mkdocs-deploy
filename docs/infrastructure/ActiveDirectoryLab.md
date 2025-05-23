@@ -58,3 +58,10 @@ graph TD
     | System            | OS                  | IP        | Purpose                     |
     | ----------------- | ------------------- | --------- | --------------------------- |
     | Domain Controller | Windows Server 2019 | 10.0.3.10 | File shares, sensitive data 
+
+
+---
+
+*Return to [Home](../index.md)*  
+*Return to [Infrastructure](index.md)*  
+*Return to [Homelab](../homelab/index.md)*

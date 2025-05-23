@@ -9,13 +9,12 @@ title: About
 
 ## Current Projects and Certifications
 
+[Homelab](homelab/index.md) - Building and maintaining a comprehensive security testing environment for hands-on cybersecurity practice and continuous learning.
 
 !!! note "Current use case"
 
     The certification labs and capstones are locally deployed through my homelab: [Active Directory lab](homelab/pnpt.md#lab-environments) and [OWASP Juice shop](homelab/pnpt.md#lab-environments) for web app vulnerabilities
 
-
-[Homelab](homelab/index.md) - Building and maintaining a comprehensive security testing environment for hands-on cybersecurity practice and continuous learning.
 
 [PNPT certification](homelab/pnpt.md) - Actively pursuing TCM Security's Practical Network Penetration Tester certification.
 
