@@ -1,4 +1,4 @@
-# VLAN Infrastructure
+# General networking setup
 
 ## Overview
 
