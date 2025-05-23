@@ -22,14 +22,18 @@ Originally built for multimedia services access (yt-dlp), evolved into a compreh
 
 ## Network Configuration
 
-Dual bridge configuration separates domains:
+Dual bridge configuration via Proxmox allows for easily configurable virtualized network hardware for my attack machine (Kali) and the vulnerable environment.:
 
-- vmbr0 bridge for general infrastructure
-- vmbr1 for security infrastructure
-  - No internet access
-  - Windows machines restricted to internal lab network
-  - Kali configured as pivot point between networks
-  - VLAN tagged for Proxmox management
+=== "Attack domain"
+    * Kali is the only machine with dual access and allows for attack/pivot in offensive scenarios and labs.
+    * vmbr0 access for internet-connectivity
+    * vmbr1 access for vulnerable network for AD lab and sensitive OWASP
+  
+
+=== "Vulnerable domain" 
+     
+    * Includes the virtualized [AD Lab](ActiveDirectoryLab.md)
+    * vmbr1 access only (intranet-only)
 
 ## Lab Environments
 
