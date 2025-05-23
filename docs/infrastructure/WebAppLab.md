@@ -1,8 +1,10 @@
 # OWASP Juice Shop		
 
+The PNPT Course/Certification involves training on OWASP's [Juice Shop](https://owasp.org/www-project-juice-shop/) - and *insecure* web app used for training.
+
 !!! note "Overview"
 
-    Attack vulnerable Windows Domain Controller and user machines. Active Directory and Windows DC environment with Kali Linux based tools for A
+    Attack an insecure web application through various methods outlined below. OWASP provides great resources for learning and documentation on their website.
 
 === "Common web vulnerability labs included:"
 
