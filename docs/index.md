@@ -1,6 +1,9 @@
 ---
-title: Mario Torres - Security Professional
-
+title: Mario Torres - IT Professional
+hide:
+  - toc
+  - navigation
+---
 
 ---
 
@@ -18,7 +21,6 @@ title: Mario Torres - Security Professional
 
     4+ years supporting and administering IAM related issues at Fidelity Investments.
     
-    Currently progressing through the [`Professional Network Penetration Tester`](https://certifications.tcm-sec.com/pnpt/) certification.
 
     [:octicons-arrow-right-24: About Me](about/)
 

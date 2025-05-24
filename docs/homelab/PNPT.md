@@ -7,7 +7,7 @@ title: PNPT Certification
 
 ## Overview
 
-Currently pursuing [PNPT certification](https://certifications.tcm-sec.com/pnpt/) through TCM Security. This certification involves a realistic penetration test complete with review of findings and report.
+Currently pursuing PNPT certification through [TCM Security](https://certifications.tcm-sec.com/pnpt/). This certification involves a realistic penetration test complete with a panel review of findings and reports.
 
 ## Lab Environments
 
@@ -29,8 +29,6 @@ The certification preparation involves hands-on practice in dedicated lab enviro
 - 5-Day practical exam
 - Professional report submission
 - Verbal report debrief
-
----
 
 ---
 
