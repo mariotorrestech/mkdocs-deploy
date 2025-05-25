@@ -13,7 +13,7 @@ title: About
 
 !!! note "Current use case"
 
-    The certification labs and capstones are locally deployed through my homelab: [Active Directory lab](homelab/pnpt.md#lab-environments) and [OWASP Juice shop](homelab/pnpt.md#lab-environments) for web app vulnerabilities
+    The certification labs and capstones are locally deployed through my homelab: [Active Directory lab](infrastructure/ActiveDirectoryLab.md) and [OWASP Juice shop](infrastructure/WebAppLab.md) for web app vulnerabilities
 
 
 [PNPT certification](homelab/pnpt.md) - Actively pursuing TCM Security's Practical Network Penetration Tester certification.
